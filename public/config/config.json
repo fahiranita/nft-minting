@@ -7,10 +7,10 @@
     "ID": 137
   },
   "NFT_NAME": "Chaos Bravery",
-  "SYMBOL": "CBG",
+  "SYMBOL": "CB Card",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "DISPLAY_COST": 1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/chaos-bravery-game",
